@@ -18,7 +18,6 @@
 - 💻 Experienced in building full-stack web applications with **React.js, Next.js, Node.js, Express, and MongoDB**.
 - ⚡ Strong foundation in real-time communication technologies (**WebRTC, Socket.io**) and cloud deployment.
 - 🎯 Passionate about writing clean, maintainable code, optimizing API latency, and crafting responsive user experiences.
-- ⏱️ **Notice Period:** 15 Days (Serving notice / available to join immediately).
 
 ---
 
